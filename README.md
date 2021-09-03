@@ -4,7 +4,7 @@ format nginx conf file tools
 # Usage
 
 ```
-go get -u https://github.com/litgh/nginxfmt
+go get -u github.com/litgh/nginxfmt
 ```
 
 ```
